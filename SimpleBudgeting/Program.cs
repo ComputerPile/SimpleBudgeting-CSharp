@@ -117,19 +117,19 @@ namespace SimpleBudgeting
                     Console.Write("\nWould you like to add more? (Y/n)");
                     string addMoreInput = Console.ReadLine().ToUpper();
 
-                    if (addMoreInput == "N")
+                    switch(addMoreInput)
                     {
-                        addMoreBills = false;
-                        addMoreError = false;
-                    }
-                    else if (addMoreInput == "Y")
-                    {
-                        addMoreBills = true;
-                        addMoreError = false;
-                    }
-                    else
-                    {
-                        addMoreError = myLib.ThrowError("\nPlease enter Y or N.");
+                        case "Y":
+                            addMoreBills = true;
+                            addMoreError = false;
+                            break;
+                        case "N":
+                            addMoreBills = false;
+                            addMoreError = false;
+                            break;
+                        default:
+                            addMoreError = myLib.ThrowError("\nPlease enter Y or N.");
+                            break;
                     }
                 } while (addMoreError);
 

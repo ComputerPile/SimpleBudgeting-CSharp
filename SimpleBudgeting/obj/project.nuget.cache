@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sXAlLLhjaDJsFzQbsqmmUvirXHlmQ48VkQ4tKCtJWG6LFB9Xdl4DNY1cG74M/v7a1C1gOPhDPTmIZHL0f3nn4w==",
+  "dgSpecHash": "H5mq2itdMgPp9W4bu/HJGNGfc3Sjbg1MBE0YAo6btAIUXWr8nnCwQIaNxZYDyDT6qyj8JTP68h/0FoRUDt2hSQ==",
   "success": true,
-  "projectFilePath": "/Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/SimpleBudgeting.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Miguel\\Documents\\miguel-share\\VisualStudio\\SimpleBudgeting\\SimpleBudgeting\\SimpleBudgeting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

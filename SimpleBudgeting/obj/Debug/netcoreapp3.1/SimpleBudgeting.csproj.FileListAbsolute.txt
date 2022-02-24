@@ -10,3 +10,17 @@
 /Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/obj/Debug/netcoreapp3.1/SimpleBudgeting.dll
 /Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/obj/Debug/netcoreapp3.1/SimpleBudgeting.pdb
 /Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/obj/Debug/netcoreapp3.1/SimpleBudgeting.genruntimeconfig.cache
+C:\Users\Miguel\Documents\miguel-share\VisualStudio\SimpleBudgeting\SimpleBudgeting\bin\Debug\netcoreapp3.1\SimpleBudgeting.exe
+C:\Users\Miguel\Documents\miguel-share\VisualStudio\SimpleBudgeting\SimpleBudgeting\bin\Debug\netcoreapp3.1\SimpleBudgeting.deps.json
+C:\Users\Miguel\Documents\miguel-share\VisualStudio\SimpleBudgeting\SimpleBudgeting\bin\Debug\netcoreapp3.1\SimpleBudgeting.runtimeconfig.json
+C:\Users\Miguel\Documents\miguel-share\VisualStudio\SimpleBudgeting\SimpleBudgeting\bin\Debug\netcoreapp3.1\SimpleBudgeting.runtimeconfig.dev.json
+C:\Users\Miguel\Documents\miguel-share\VisualStudio\SimpleBudgeting\SimpleBudgeting\bin\Debug\netcoreapp3.1\SimpleBudgeting.dll
+C:\Users\Miguel\Documents\miguel-share\VisualStudio\SimpleBudgeting\SimpleBudgeting\bin\Debug\netcoreapp3.1\SimpleBudgeting.pdb
+C:\Users\Miguel\Documents\miguel-share\VisualStudio\SimpleBudgeting\SimpleBudgeting\obj\Debug\netcoreapp3.1\SimpleBudgeting.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\miguel-share\VisualStudio\SimpleBudgeting\SimpleBudgeting\obj\Debug\netcoreapp3.1\SimpleBudgeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\miguel-share\VisualStudio\SimpleBudgeting\SimpleBudgeting\obj\Debug\netcoreapp3.1\SimpleBudgeting.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\miguel-share\VisualStudio\SimpleBudgeting\SimpleBudgeting\obj\Debug\netcoreapp3.1\SimpleBudgeting.AssemblyInfo.cs
+C:\Users\Miguel\Documents\miguel-share\VisualStudio\SimpleBudgeting\SimpleBudgeting\obj\Debug\netcoreapp3.1\SimpleBudgeting.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\miguel-share\VisualStudio\SimpleBudgeting\SimpleBudgeting\obj\Debug\netcoreapp3.1\SimpleBudgeting.dll
+C:\Users\Miguel\Documents\miguel-share\VisualStudio\SimpleBudgeting\SimpleBudgeting\obj\Debug\netcoreapp3.1\SimpleBudgeting.pdb
+C:\Users\Miguel\Documents\miguel-share\VisualStudio\SimpleBudgeting\SimpleBudgeting\obj\Debug\netcoreapp3.1\SimpleBudgeting.genruntimeconfig.cache
