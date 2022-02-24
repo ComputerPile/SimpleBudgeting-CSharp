@@ -31,19 +31,19 @@ namespace SimpleBudgeting
 
             foreach (string bill in bills)
             {
-                if (bill == "your monthly salary")
+                switch (bill)
                 {
-                    total = myLib.AskInfo(bill);
+                    case "your monthly salary":
+                        total = myLib.AskInfo(bill);
 
-                    Console.WriteLine("Total amount starting: $ {0}", total.ToString("0.00"));
-                }
-                else
-                {
-                    float paymentAmount = myLib.AskInfo(bill);
+                        Console.WriteLine("Total amount starting: $ {0}", total.ToString("0.00"));
+                        break;
+                    default:
+                        float paymentAmount = myLib.AskInfo(bill);
 
-                    total -= paymentAmount;
-
-                    Console.WriteLine("\nTotal remaining: $ {0}", total);
+                        total -= paymentAmount;
+                        Console.WriteLine("\nTotal remainin: $ {0}", total.ToString("0.00"));
+                        break;
                 }
             }
 
@@ -58,17 +58,17 @@ namespace SimpleBudgeting
                 Console.Write("Would you like to deduct more bills or payments? (Y/n): ");
                 string addBillsInput = Console.ReadLine().ToUpper();
 
-                if (addBillsInput == "Y")
+                switch(addBillsInput)
                 {
-                    addError = false;
-                }
-                else if (addBillsInput == "N")
-                {
-                    Environment.Exit(0); // exit program
-                }
-                else
-                {
-                    addError = myLib.ThrowError("Please enter Y or N.");
+                    case "Y":
+                        addError = false;
+                        break;
+                    case "N":
+                        Environment.Exit(0); // exit program
+                        break;
+                    default:
+                        addError = myLib.ThrowError("Please enter Y or N.");
+                        break;
                 }
             } while (addError);
 
