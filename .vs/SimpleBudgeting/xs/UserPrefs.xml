@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CCAE0DE6-727D-4CFC-AA09-260741FF4166}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleBudgeting/Program.cs">
+    <Files>
+      <File FileName="SimpleBudgeting/Program.cs" Line="1" Column="14" />
+      <File FileName="SimpleBudgeting/Library.cs" Line="93" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleBudgeting" expanded="True">
+            <Node name="SimpleBudgeting" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SimpleBudgeting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/bin/Debug/netcoreapp3.1/SimpleBudgeting.deps.json
+/Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/bin/Debug/netcoreapp3.1/SimpleBudgeting.runtimeconfig.json
+/Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/bin/Debug/netcoreapp3.1/SimpleBudgeting.runtimeconfig.dev.json
+/Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/bin/Debug/netcoreapp3.1/SimpleBudgeting.dll
+/Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/bin/Debug/netcoreapp3.1/SimpleBudgeting.pdb
+/Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/obj/Debug/netcoreapp3.1/SimpleBudgeting.csprojAssemblyReference.cache
+/Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/obj/Debug/netcoreapp3.1/SimpleBudgeting.AssemblyInfoInputs.cache
+/Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/obj/Debug/netcoreapp3.1/SimpleBudgeting.AssemblyInfo.cs
+/Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/obj/Debug/netcoreapp3.1/SimpleBudgeting.csproj.CoreCompileInputs.cache
+/Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/obj/Debug/netcoreapp3.1/SimpleBudgeting.dll
+/Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/obj/Debug/netcoreapp3.1/SimpleBudgeting.pdb
+/Users/miguel/Library/Mobile Documents/com~apple~CloudDocs/VisualStudio/SimpleBudgeting/SimpleBudgeting/obj/Debug/netcoreapp3.1/SimpleBudgeting.genruntimeconfig.cache
